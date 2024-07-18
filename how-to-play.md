@@ -2,7 +2,7 @@
 
 Balance battlefield strategy with the spirituality of your tribe to conquer the promised land. To help you do this, make wise use of your Levites, lots, and soldiers.
 
-### Every Turn
+### How to Take Your Turn
 
 #### 1. Assign Your Levites
 
@@ -10,7 +10,7 @@ Each of your Levites can do one of the following actions on this turn:
 
 ##### Teach the Law
 
-Any Levite given this assignment will be ready to satisfy the spiritual hunger of the people in case it arises. When you cast lots, you'll see if
+Any Levite given this assignment will be ready to satisfy the spiritual hunger of the people in case it arises (if a 7 is rolled).
 
 ##### Sing Praises
 
@@ -26,7 +26,7 @@ Any Levite given this assignment will aid your progress in receiving a conquest 
 
 ##### Seek Direction
 
-Any Levite given this assignment will be ready to receive additional divine direction, should it appear.
+Any Levite given this assignment will be ready to receive additional divine direction, should it appear (if a 2 or a 12 is rolled).
 
 ##### Update Your Tribe Card!
 
@@ -40,7 +40,7 @@ Cast two lots (dice) and add their numbers together to become aware of events af
 
 ###### 2
 
-Nothing
+Divine insight has come through the prophets. Do you have at least one Levite seeking direction to receive this direction?
 
 ###### 3
 
@@ -85,7 +85,7 @@ Something happened! Draw an event card to see what it was.
 
 ###### 12
 
-Nothing
+Divine insight has come through the prophets. Do you have at least one Levite seeking direction to receive this direction?
 
 ##### Update Your Tribe Card!
 
@@ -94,7 +94,8 @@ Your faith meter should be updated if there was spiritual hunger (you rolled a 7
 ### 3. Move Soldiers
 
 Move each soldier up to 3 spaces in any direction.
-If a soldier can reach a city during the turn, he can start attacking it in the same turn.
+* If a soldier can reach a city during the turn, he can start attacking it in the same turn.
+* Two soldiers cannot occupy the same space.
 
 ### 4. Keep Time
 
@@ -106,4 +107,8 @@ For every ongoing battle, remove one time counter per attacking soldier.
 
 As long as the tribe is faithful (the faith meter is halfway full or more), your soldiers will win! Each soldier will remove one time counter per turn.
 
-If your tribe is unfaithful (the faith meter is less than halfway full), your soldiers will not be able to make any progress. No time counters will be removed.
+If your tribe is unfaithful (the faith meter is less than halfway full), your soldiers will not be able to make any progress (No time counters will be removed)
+
+### Events and Direction
+
+Event cards and direction cards come with their own instructions. You'll know what to do!
