@@ -1,6 +1,9 @@
-## How to Play
 
 Balance battlefield strategy with the spirituality of your tribe to conquer the promised land. To help you do this, make wise use of your Levites, lots, and soldiers.
+
+### How to Set Up
+
+
 
 ### How to Take Your Turn
 
@@ -112,3 +115,11 @@ If your tribe is unfaithful (the faith meter is less than halfway full), your so
 ### Events and Direction
 
 Event cards and direction cards come with their own instructions. You'll know what to do!
+
+### Cooperative Mode
+
+Everyone at the table has 20 turns to conquer the allotted cities. If any cities remain, everyone loses. If no cities remain, everyone wins.
+
+### Competitive Mode
+
+When all the allotted cities are conquered, the game ends. Whoever has the most victory points wins.
