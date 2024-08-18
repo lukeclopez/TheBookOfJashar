@@ -3,7 +3,16 @@ Balance battlefield strategy with the spirituality of your tribe to conquer the 
 
 ### How to Set Up
 
-
+1. Every player chooses a tribe.
+	1. Depending on the tribe, each player will get a different number of soldiers and Levites.
+2. Shuffle the city cards and draw ten. These are the cities available for conquest.
+	1. For each city, count out the number of time counters it should have and put them in a holder on top of the card.
+	2. For each city, place a city marker on the map to make it easy to find.
+3. Deal three city cards (NOT from the conquest city cards) to each player. These are their starting locations.
+4. Each player takes one turn to place all his soldiers on the map.
+	1. The player divides their soldiers up between their three potential starting cities as desired.
+	2. If a tile is full, the player can place a soldier on an immediately adjacent title.
+5. Once all the soldiers are placed, normal turns begin!
 
 ### How to Take Your Turn
 
@@ -98,7 +107,7 @@ Your faith meter should be updated if there was spiritual hunger (you rolled a 7
 
 Move each soldier up to 3 spaces in any direction.
 * If a soldier can reach a city during the turn, he can start attacking it in the same turn.
-* Two soldiers cannot occupy the same space.
+* A soldier cannot end his turn in the same space as another soldier.
 
 ### 4. Keep Time
 
@@ -107,6 +116,8 @@ Your soldiers are making progress in their conquest!
 For every ongoing battle, remove one time counter per attacking soldier.
 
 ### Battles
+
+Each city card has a number showing how long it will take to conquer. If that number is 10, then you must count out 10 time counters for that city on the turn you start attacking it.
 
 As long as the tribe is faithful (the faith meter is halfway full or more), your soldiers will win! Each soldier will remove one time counter per turn.
 
