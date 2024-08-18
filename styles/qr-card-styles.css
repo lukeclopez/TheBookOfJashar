@@ -16,7 +16,7 @@ body {
   text-align: center;
   border-radius: 10px;
   position: relative;
-  background-image: url("./assets/misc-images/scroll.png");
+  background-image: url("../assets/misc-images/scroll.png");
 }
 
 .card::before {
