@@ -2,12 +2,12 @@ import pandas as pd
 import os
 
 # Load the city data from the CSV file
-csv_file_path = 'jashar-cities-data.csv'
+csv_file_path = './data/jashar-cities-data.csv'
 city_data = pd.read_csv(csv_file_path)
 
 # Define file paths for the templates
-qr_template_path = '../templates/qr-card-template.html'  # Update this path
-city_page_template_path = '../templates/city-page-template.html'  # Update this path
+qr_template_path = './templates/qr-card-template.html'  # Update this path
+city_page_template_path = './templates/city-page-template.html'  # Update this path
 
 # Load the HTML templates
 with open(qr_template_path, 'r') as file:
@@ -18,8 +18,8 @@ with open(city_page_template_path, 'r') as file:
 
 # Function to generate city-specific HTML files
 def generate_city_files(city_data):
-    qr_card_output_dir = '../qr-code-cards/'
-    city_page_output_dir = '../cities/'
+    qr_card_output_dir = './qr-code-cards/'
+    city_page_output_dir = './cities/'
 
     os.makedirs(qr_card_output_dir, exist_ok=True)
     os.makedirs(city_page_output_dir, exist_ok=True)
