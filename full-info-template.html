@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Hero Image Page</title>
+    <title>{CITY_NAME_TITLE_CASE}</title>
     <style>
       body {
         margin: 0;
@@ -14,7 +14,7 @@
         text-align: center;
         padding: 20px;
         background-color: #f4e7c4;
-        background-image: url("scroll.png");
+        background-image: url("../assets/misc-images/scroll.png");
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
@@ -45,21 +45,26 @@
         font-style: italic;
         line-height: 1.5;
       }
+      a {
+        color: #533400;
+      }
     </style>
   </head>
   <body>
     <div class="container">
       <img
-        src="/Users/lukelopez/Development/TheBookOfJashar/citadel.webp"
-        alt="Hero Image"
+        src="../assets/art/cities/{CITY_NAME_LOWERCASE}.webp"
+        alt="{CITY_NAME_TITLE_CASE}"
         class="hero-image"
       />
       <div class="content">
-        <p>
-          This is a simple paragraph of text that appears below the hero image.
-          It could be a brief description or an important message for the
-          visitors.
-        </p>
+        <h2>{CITY_NAME_TITLE_CASE}</h2>
+        <p>Power: {POWER}</p>
+        <p>Special: {SPECIAL}</p>
+        <hr />
+        <p>{DESCRIPTION}</p>
+        <hr />
+        <a href="{INSIGHT_LINK}">More Information</a>
       </div>
     </div>
   </body>
