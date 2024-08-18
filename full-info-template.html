@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hero Image Page</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: "Papyrus", "Serif", serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+        background-color: #f4e7c4;
+        background-image: url("scroll.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        color: #3b2e1e;
+      }
+      .container {
+        width: 100%;
+        max-width: 600px;
+      }
+      .hero-image {
+        width: 100%;
+        height: auto;
+        border: 5px solid #8b5e3c;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+        margin-top: 20px;
+      }
+      .content {
+        margin-top: 20px;
+        font-size: 1.2em;
+        padding: 20px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border: 3px solid #8b5e3c;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+      }
+      p {
+        margin: 0;
+        font-family: "Georgia", serif;
+        font-style: italic;
+        line-height: 1.5;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <img
+        src="/Users/lukelopez/Development/TheBookOfJashar/citadel.webp"
+        alt="Hero Image"
+        class="hero-image"
+      />
+      <div class="content">
+        <p>
+          This is a simple paragraph of text that appears below the hero image.
+          It could be a brief description or an important message for the
+          visitors.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

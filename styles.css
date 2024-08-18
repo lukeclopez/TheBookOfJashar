@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Garamond", serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  width: 250px;
+  padding: 20px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+  background: linear-gradient(145deg, #864d14, #8b6a4a);
+  border: 5px solid #6e4b31;
+  color: #f5e8c7;
+  transition: transform 0.3s ease;
+  background-image: url("https://www.transparenttextures.com/patterns/ravenna.png");
+  background-color: #4b3f2f;
+  text-shadow: 1px 1px 2px #000;
+}
+
+.card-header {
+  background-color: rgba(59, 39, 23, 0.7);
+  padding: 10px;
+  text-align: center;
+  border-bottom: 3px solid #6e4b31;
+  margin-bottom: 20px;
+}
+
+.card-title {
+  font-family: "Cinzel", serif;
+  font-size: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+.card-qr {
+  text-align: center;
+  border: 3px solid #6e4b31;
+}
+
+.card-qr img {
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+  background-color: rgba(59, 39, 23, 0.7);
+  opacity: 0.25;
+}
