@@ -1,9 +1,7 @@
-body {
+.qr-card {
   font-family: "Papyrus", "Serif", serif;
-  display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
   margin: 0;
 }
 
