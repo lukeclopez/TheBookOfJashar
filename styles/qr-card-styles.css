@@ -43,6 +43,14 @@
   z-index: 2;
 }
 
+.title-long {
+  font-size: 1.5em;
+}
+
+.title-longer {
+  font-size: 1.2em;
+}
+
 .qr-code {
   position: block;
   z-index: 2;
