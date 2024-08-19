@@ -1,10 +1,11 @@
 import os
+from bs4 import BeautifulSoup
 
 # Directory containing your HTML files
 directory = "./qr-code-cards"
 
 # Output file
-output_file = "merged_grid.html"
+output_file = "./for-printing/card-grid.html"
 
 # Start of the output HTML file
 html_content = """
@@ -13,6 +14,9 @@ html_content = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/qr-card-styles.css" />
+    <link rel="stylesheet" href="../styles/city-page-styles.css" />
+
     <title>Merged HTML Grid</title>
     <style>
         body {
@@ -23,37 +27,31 @@ html_content = """
         .grid-container {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-        }
-        .grid-item {
-            border: 1px solid #ddd;
-            padding: 10px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            background-color: #f9f9f9;
-        }
-        iframe {
-            width: 100%;
-            height: 300px;
-            border: none;
+            row-gap: 20px;
         }
     </style>
 </head>
 <body>
-    <h1>Merged HTML Grid</h1>
     <div class="grid-container">
 """
 
 # Loop through all HTML files in the directory and add them as grid items
-for filename in os.listdir(directory):
+for filename in sorted(os.listdir(directory)):
     if filename.endswith(".html"):
         file_path = os.path.join(directory, filename)
         with open(file_path, "r") as file:
-            content = file.read()
-            # Wrap the content inside an iframe to preserve the structure
+            # Parse the HTML content
+            soup = BeautifulSoup(file.read(), "html.parser")
+
+            # Extract relevant content (e.g., title, main content, etc.)
+            title = soup.title.string if soup.title else filename
+            main_content = soup.body if soup.body else soup
+            main_content = str(main_content)
+            main_content = main_content.replace("body", "div")
+
+            # Wrap the content in a grid item
             html_content += f"""
-            <div class="grid-item">
-                <iframe src="./qr-code-cards/{filename}"></iframe>
-            </div>
+                {str(main_content)}
             """
 
 # End of the output HTML file
