@@ -107,7 +107,8 @@ Your faith meter should be updated if there was spiritual hunger (you rolled a 7
 
 Move each soldier up to 3 spaces in any direction.
 * If a soldier can reach a city during the turn, he can start attacking it in the same turn.
-* A soldier cannot end his turn in the same space as another soldier.
+* A soldier cannot end his turn in the same space as another soldier, UNLESS they are joining an ongoing battle.
+* Soldiers from different tribes can join in an ongoing battle.
 
 ### 4. Keep Time
 
