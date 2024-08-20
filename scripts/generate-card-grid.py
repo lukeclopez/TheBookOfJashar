@@ -26,8 +26,8 @@ html_content = """
         }
         .grid-container {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            row-gap: 20px;
+            grid-template-columns: 250px 250px 250px 250px 250px;
+            row-gap: 5px;
         }
     </style>
 </head>
