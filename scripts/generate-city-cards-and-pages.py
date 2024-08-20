@@ -6,7 +6,7 @@ csv_file_path = './data/jashar-cities-data.csv'
 city_data = pd.read_csv(csv_file_path)
 
 # Define file paths for the templates
-qr_template_path = './templates/qr-card-template.html'  # Update this path
+qr_template_path = './templates/city-qr-card-template.html'  # Update this path
 city_page_template_path = './templates/city-page-template.html'  # Update this path
 
 # Load the HTML templates
