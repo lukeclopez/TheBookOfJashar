@@ -2,7 +2,7 @@ import os
 from bs4 import BeautifulSoup
 
 # Directory containing your HTML files
-directory = "./qr-code-cards"
+directory = "./qr-code-cards/cities"
 
 # Output file
 output_file = "./for-printing/card-grid.html"

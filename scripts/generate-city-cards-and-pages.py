@@ -18,7 +18,7 @@ with open(city_page_template_path, 'r') as file:
 
 # Function to generate city-specific HTML files
 def generate_city_files(city_data):
-    qr_card_output_dir = './qr-code-cards/'
+    qr_card_output_dir = './qr-code-cards/cities/'
     city_page_output_dir = './cities/'
 
     os.makedirs(qr_card_output_dir, exist_ok=True)
