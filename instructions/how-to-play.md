@@ -5,6 +5,10 @@ Balance battlefield strategy with the spirituality of your tribe to conquer the 
 
 1. Every player chooses a tribe.
 	1. Depending on the tribe, each player will get a different number of soldiers and Levites.
+		1. Judah:	6 Soldiers, 4 Levites
+		2. Naphtali:	5 Soldiers, 5 Levites
+		3. Zebulun:	5 Soldiers, 5 Levites
+		4. Gad:         4 Soldiers, 6 Levites
 2. Shuffle the city cards and draw ten. These are the cities available for conquest.
 	1. For each city, count out the number of time counters it should have and put them in a holder on top of the card.
 	2. For each city, place a city marker on the map to make it easy to find.
@@ -28,17 +32,25 @@ Any Levite given this assignment will be ready to satisfy the spiritual hunger o
 
 Any Levite given this assignment will raise the morale of the troops in the field, making them more effective.
 
+One Levite singing praises has the same effect as one soldier fighting in a battle.
+
 ##### Pray for Spirituality
 
 Any Levite given this assignment will aid your progress in receiving a spiritual blessing.
+
+One Levite praying for a spiritual blessing will increase the spiritual prayer meter by one each turn.
 
 ##### Pray for Conquest
 
 Any Levite given this assignment will aid your progress in receiving a conquest blessing.
 
+One Levite praying for a conquest blessing will increase the conquest prayer meter by one each turn.
+
 ##### Seek Direction
 
 Any Levite given this assignment will be ready to receive additional divine direction, should it appear (if a 2 or a 12 is rolled).
+
+If direction appears when you have at least one Levite seeking direction, you draw a "Direction" card.
 
 ##### Update Your Tribe Card!
 
@@ -107,8 +119,8 @@ Your faith meter should be updated if there was spiritual hunger (you rolled a 7
 
 Move each soldier up to 3 spaces in any direction.
 * If a soldier can reach a city during the turn, he can start attacking it in the same turn.
+* Soldiers from different tribes can join in an ongoing battle in cooperative mode, but not in competitive mode.
 * A soldier cannot end his turn in the same space as another soldier, UNLESS they are joining an ongoing battle.
-* Soldiers from different tribes can join in an ongoing battle.
 
 ### 4. Keep Time
 
@@ -118,11 +130,13 @@ For every ongoing battle, remove one time counter per attacking soldier.
 
 ### Battles
 
-Each city card has a number showing how long it will take to conquer. If that number is 10, then you must count out 10 time counters for that city on the turn you start attacking it.
+Each city card has a "Power" number showing how long it will take to conquer. If that number is 10, then you must count out 10 time counters for that city on the turn you start attacking it.
 
 As long as the tribe is faithful (the faith meter is halfway full or more), your soldiers will win! Each soldier will remove one time counter per turn.
 
 If your tribe is unfaithful (the faith meter is less than halfway full), your soldiers will not be able to make any progress (No time counters will be removed)
+
+If all soldiers in a battle leave that battle, the time counters "freeze" until the battle is resumed.
 
 ### Events and Direction
 
