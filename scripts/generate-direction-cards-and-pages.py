@@ -19,7 +19,7 @@ with open(direction_page_template_path, 'r') as file:
 # Function to generate direction-specific HTML files
 def generate_direction_files(direction_data):
     qr_card_output_dir = './qr-code-cards/direction/'
-    direction_page_output_dir = './direction/'
+    direction_page_output_dir = './pages/direction/'
 
     os.makedirs(qr_card_output_dir, exist_ok=True)
     os.makedirs(direction_page_output_dir, exist_ok=True)

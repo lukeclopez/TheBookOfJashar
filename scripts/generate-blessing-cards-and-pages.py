@@ -23,7 +23,7 @@ with open(qr_card_template_path, 'r') as file:
 
 # Function to generate blessing-specific HTML files
 def generate_blessing_files(blessing_data, blessing_type):
-    page_output_dir = f'./blessings/{blessing_type}/'
+    page_output_dir = f'./pages/blessings/{blessing_type}/'
     qr_card_output_dir = f'./qr-code-cards/blessings/{blessing_type}/'
 
     os.makedirs(page_output_dir, exist_ok=True)

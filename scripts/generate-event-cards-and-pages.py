@@ -19,7 +19,7 @@ with open(event_page_template_path, 'r') as file:
 # Function to generate event-specific HTML files
 def generate_event_files(event_data):
     qr_card_output_dir = './qr-code-cards/events/'
-    event_page_output_dir = './events/'
+    event_page_output_dir = './pages/events/'
 
     os.makedirs(qr_card_output_dir, exist_ok=True)
     os.makedirs(event_page_output_dir, exist_ok=True)
