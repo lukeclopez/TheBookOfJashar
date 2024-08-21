@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Load the city data from the CSV file
-csv_file_path = './data/jashar-cities-data.csv'
+csv_file_path = './data/cities.csv'
 city_data = pd.read_csv(csv_file_path)
 
 # Define file paths for the templates
