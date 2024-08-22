@@ -23,6 +23,6 @@ generate-sitemap:
 .PHONY: generate-qr-codes
 generate-qr-codes:
 	@echo "Generating QR codes..."
-	python ./scripts/generate-qr-codes.py sitemap 250 '#$(QR_CODE_COLOR)' True
+	python ./scripts/generate-qr-codes.py sitemap 300 '#$(QR_CODE_COLOR)' True
 
 .DEFAULT_GOAL := help
