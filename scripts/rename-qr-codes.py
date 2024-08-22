@@ -1,12 +1,18 @@
 import os
 
+base_url = "https---lukeclopez.github.io-TheBookOfJashar-pages-"
+
 def rename_files(directory):
     for filename in os.listdir(directory):
         if filename.startswith("https---") and filename.endswith(".png"):
-            # Extract the city name from the filename
-            city_name = filename.split("-")[-2]  # Extracts 'laish' from the filename
-            new_filename = f"{city_name}.png"
-            
+            new_filename = filename.replace(base_url, "")
+            new_filename = new_filename.replace(".html", "")
+            new_filename = new_filename.replace("cities-", "")
+            new_filename = new_filename.replace("blessings-spiritual-", "")
+            new_filename = new_filename.replace("blessings-conquest-", "")
+            new_filename = new_filename.replace("direction-", "")
+            new_filename = new_filename.replace("events-", "")
+
             # Construct full file paths
             old_file_path = os.path.join(directory, filename)
             new_file_path = os.path.join(directory, new_filename)
