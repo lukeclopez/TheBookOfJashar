@@ -1,8 +1,8 @@
 Title,Details,Quantity in Deck
 Aging Generations,All players reset Faith to middle.,2
-Ambush!,Your troops nearest to Adullam are under attack by an enemy force of power 10!,1
-Ambush!,Your troops nearest to Taanach are under attack by an enemy force of power 10!,1
-Ambush!,Your troops nearest to Hazor are under attack by an enemy force of power 10!,1
+Ambush by Adullam,Your troops nearest to Adullam are under attack by an enemy force of power 10!,1
+Ambush by Taanach,Your troops nearest to Taanach are under attack by an enemy force of power 10!,1
+Ambush by Hazor,Your troops nearest to Hazor are under attack by an enemy force of power 10!,1
 A Discouraging Report,Faith -3 to all players soldiers stop fighting for 1 turn,2
 Attack on the Gibeonites,Chephirah and Gibeon are under attack by an enemy force of power 20 in each city! Save them by starting a battle at those cities within three turns. If the attacking forces are not defeated then all tribes will lose half of their current faith.,1
 Apostasy in the Valley,The people have erected an idol where the torrent valley of Jabbok meets the Jordan. Bring a soldier to the idol to destroy it. Your faith will decrease by 1 each turn until the idol is destroyed.,1
