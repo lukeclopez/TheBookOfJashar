@@ -121,7 +121,7 @@ Move each soldier up to 3 spaces in any direction.
 - Soldiers from different tribes can join in an ongoing battle in cooperative mode, but not in competitive mode.
 - A soldier cannot end his turn in the same space as another soldier, UNLESS they are joining an ongoing battle.
 
-### 4. Keep Score
+### 4. Keep Score (Count your points)
 
 Your soldiers are making progress in their conquest!
 
