@@ -131,13 +131,11 @@ For every ongoing battle, count one point per attacking soldier
 
 Each city card has a "Power" number showing how long it will take to conquer. If that number is 10, then it will take 10 turns to conquer.
 
-As long as the tribe is faithful (the faith meter is halfway full or more), your soldiers will win! Each soldier attacking the city will score one point per turn.
+As long as the tribe is faithful (the faith meter is halfway full or more), your soldiers will win! Each soldier attacking the city will score one point per turn until you have "taken" all the points from that city. At that point, the city is conquered.
 
 If your tribe is unfaithful (the faith meter is less than halfway full), your soldiers will not be able to make any progress (No points will be scored).
 
 On the turn when you start a battle, write down the name of the city, it's power, and score one point against the city.
-
-Once the number of points scored in the city matches the "Power" rating of the city, the city has been conquered.
 
 ### Events and Direction
 
