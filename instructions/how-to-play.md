@@ -1,21 +1,19 @@
-
 Balance battlefield strategy with the spirituality of your tribe to conquer the promised land. To help you do this, make wise use of your Levites, lots, and soldiers.
 
 ### How to Set Up
 
 1. Every player chooses a tribe.
-	1. Depending on the tribe, each player will get a different number of soldiers and Levites.
-		1. Judah:	6 Soldiers, 4 Levites
-		2. Naphtali:	5 Soldiers, 5 Levites
-		3. Zebulun:	5 Soldiers, 5 Levites
-		4. Gad:         4 Soldiers, 6 Levites
+   1. Depending on the tribe, each player will get a different number of soldiers and Levites.
+      1. Judah: 6 Soldiers, 4 Levites
+      2. Naphtali: 5 Soldiers, 5 Levites
+      3. Zebulun: 5 Soldiers, 5 Levites
+      4. Gad: 4 Soldiers, 6 Levites
 2. Shuffle the city cards and draw ten. These are the cities available for conquest.
-	1. For each city, count out the number of time counters it should have and put them in a holder on top of the card.
-	2. For each city, place a city marker on the map to make it easy to find.
+   1. For each city, place a city marker on the map to make it easy to find.
 3. Deal three city cards (NOT from the conquest city cards) to each player. These are their starting locations.
 4. Each player takes one turn to place all his soldiers on the map.
-	1. The player divides their soldiers up between their three potential starting cities as desired.
-	2. If a tile is full, the player can place a soldier on an immediately adjacent title.
+   1. The player divides their soldiers up between their three potential starting cities as desired.
+   2. If a tile is already taken, the player can place a soldier on an immediately adjacent title.
 5. Once all the soldiers are placed, normal turns begin!
 
 ### How to Take Your Turn
@@ -80,16 +78,16 @@ Nothing
 
 ###### 6
 
-Nothing
-
-###### 7
-
 Your tribe is spiritually hungry. Are your Levites there to teach them the Law, or will they result to idolatry?
 
 The smaller number of the two dice you rolled represents the amount of spiritual hunger your tribe has on this turn. The number of Levites you have teaching the Law will satisfy that hunger. Unsatisfied spiritual hunger detracts from your faith.
 
 Example: I rolled a 3 and a 4, which equals 7. The smaller number is 3. I have 2 Levites teaching the law.
 I’ve only satisfied 2/3 of the spiritual hunger my tribe has, so my faith meter decreases by 1.
+
+###### 7
+
+Your tribe is spiritually hungry. (See description for 6)
 
 ###### 8
 
@@ -118,9 +116,10 @@ Your faith meter should be updated if there was spiritual hunger (you rolled a 7
 ### 3. Move Soldiers
 
 Move each soldier up to 3 spaces in any direction.
-* If a soldier can reach a city during the turn, he can start attacking it in the same turn.
-* Soldiers from different tribes can join in an ongoing battle in cooperative mode, but not in competitive mode.
-* A soldier cannot end his turn in the same space as another soldier, UNLESS they are joining an ongoing battle.
+
+- If a soldier can reach a city during the turn, he can start attacking it in the same turn.
+- Soldiers from different tribes can join in an ongoing battle in cooperative mode, but not in competitive mode.
+- A soldier cannot end his turn in the same space as another soldier, UNLESS they are joining an ongoing battle.
 
 ### 4. Keep Time
 
@@ -130,13 +129,15 @@ For every ongoing battle, remove one time counter per attacking soldier.
 
 ### Battles
 
-Each city card has a "Power" number showing how long it will take to conquer. If that number is 10, then you must count out 10 time counters for that city on the turn you start attacking it.
+Each city card has a "Power" number showing how long it will take to conquer. If that number is 10, then it will take 10 turns to conquer.
 
-As long as the tribe is faithful (the faith meter is halfway full or more), your soldiers will win! Each soldier will remove one time counter per turn.
+As long as the tribe is faithful (the faith meter is halfway full or more), your soldiers will win! Each soldier attacking the city will score one point per turn.
 
-If your tribe is unfaithful (the faith meter is less than halfway full), your soldiers will not be able to make any progress (No time counters will be removed)
+If your tribe is unfaithful (the faith meter is less than halfway full), your soldiers will not be able to make any progress (No points will be scored).
 
-If all soldiers in a battle leave that battle, the time counters "freeze" until the battle is resumed.
+On the turn when you start a battle, write down the name of the city, it's power, and score one point against the city.
+
+Once the number of points scored in the city matches the "Power" rating of the city, the city has been conquered.
 
 ### Events and Direction
 
