@@ -16,6 +16,11 @@ with open(qr_template_path, 'r') as file:
 with open(city_page_template_path, 'r') as file:
     city_page_template = file.read()
 
+
+long_name_cities = [
+    "Beth-horon", "Beth-shemesh", "Beer-sheba"
+]
+
 # Function to generate city-specific HTML files
 def generate_city_files(city_data):
     qr_card_output_dir = './qr-code-cards/cities/'
@@ -35,6 +40,10 @@ def generate_city_files(city_data):
         # Replace placeholders in the QR card template
         qr_card_content = qr_template.replace('{CITY_NAME_TITLE_CASE}', city_name_title_case)
         qr_card_content = qr_card_content.replace('{CITY_NAME_LOWERCASE}', city_name_lowercase)
+        
+        # Apply special formatting if the city is in the special list
+        if city_name_title_case in long_name_cities:
+            qr_card_content = qr_card_content.replace('<div class="title">', '<div class="title title-long">')
         
         # Replace placeholders in the city page template
         city_page_content = city_page_template.replace('{CITY_NAME_TITLE_CASE}', city_name_title_case)
