@@ -5,14 +5,23 @@ QR_CODE_COLOR = 533400
 .PHONY: help
 help:
 	@echo "Available targets:"
-	@echo "  generate-game   - Generate game files"
+	@echo "  generate-game   - (Re)generate all game files from data files"
 	@echo "  generate-sitemap - Generate sitemap file"
+	@echo "  generate-qr-codes - Generate QR codes"
 
 
 .PHONY: generate-game
 generate-game:
 	@echo "Generating game files..."
-	@echo "Coming soon..."
+	python ./scripts/generate-blessing-cards-and-pages.py
+	python ./scripts/generate-city-cards-and-pages.py
+	python ./scripts/generate-direction-cards-and-pages.py
+	python ./scripts/generate-event-cards-and-pages.py
+	python ./scripts/generate-tribe-tablets.py
+
+	@echo "Generating combination files..."
+	python ./scripts/generate-card-grid.py
+	python ./scripts/generate-tribe-tablet-grid.py
 
 .PHONY: generate-sitemap
 generate-sitemap:
