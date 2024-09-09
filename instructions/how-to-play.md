@@ -14,7 +14,8 @@ Balance battlefield strategy with the spirituality of your tribe to conquer the 
 4. Each player takes one turn to place all his soldiers on the map.
    1. The player divides their soldiers up between their three potential starting cities as desired.
    2. If a tile is already taken, the player can place a soldier on an immediately adjacent title.
-5. Once all the soldiers are placed, normal turns begin!
+5. Each player chooses two random blessing cards from either the Spiritual Blessings or Conquest blessings (one of each is okay).
+6. Play!
 
 ### How to Take Your Turn
 
