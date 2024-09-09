@@ -24,35 +24,23 @@ Each of your Levites can do one of the following actions on this turn:
 
 ##### Teach the Law
 
-Any Levite given this assignment will be ready to satisfy the spiritual hunger of the people in case it arises (if a 7 is rolled).
+Any Levite given this assignment will be ready to satisfy the spiritual hunger of the people in case it arises (see "Cast Lots" below).
 
 ##### Sing Praises
 
 Any Levite given this assignment will raise the morale of the troops in the field, making them more effective.
 
-One Levite singing praises has the same effect as one soldier fighting in a battle.
+One Levite singing praises has the same effect as one soldier fighting in a battle. When you keep score at the end of your turn, you can decide in which battle you want to score the extra points.
 
-##### Pray for Spirituality
+##### Pray for Direction and Blessings
 
-Any Levite given this assignment will aid your progress in receiving a spiritual blessing.
+Any Levite given this assignment will aid your progress in receiving a blessing.
 
-One Levite praying for a spiritual blessing will increase the spiritual prayer meter by one each turn.
+One Levite praying for a blessing will increase the prayer meter by one each turn.
 
-##### Pray for Conquest
+Once the prayer meter is maxed out, the player may choose a random blessing card from either the Conquest Blessings or the Spiritual Blessings. Then, the meter is reset to the beginning.
 
-Any Levite given this assignment will aid your progress in receiving a conquest blessing.
-
-One Levite praying for a conquest blessing will increase the conquest prayer meter by one each turn.
-
-##### Seek Direction
-
-Any Levite given this assignment will be ready to receive additional divine direction, should it appear (if a 2 or a 12 is rolled).
-
-If direction appears when you have at least one Levite seeking direction, you draw a "Direction" card.
-
-##### Update Your Tribe Card!
-
-For every one Levite praying for a conquest blessing or a spiritual blessing, move the target prayer meter up by one.
+If you have at least one Levite praying when direction appears (see "Cast Lots" below), you draw a "Direction" card and follow the instructions on it.
 
 #### 2. Cast Lots
 
@@ -62,7 +50,7 @@ Cast two lots (dice) and add their numbers together to become aware of events af
 
 ###### 2
 
-Divine insight has come through the prophets. Do you have at least one Levite seeking direction to receive this direction?
+If you have at least one Levite praying, your tribe receives divine direction.
 
 ###### 3
 
@@ -107,11 +95,11 @@ Something happened! Draw an event card to see what it was.
 
 ###### 12
 
-Divine insight has come through the prophets. Do you have at least one Levite seeking direction to receive this direction?
+If you have at least one Levite praying, your tribe receives divine direction.
 
 ##### Update Your Tribe Card!
 
-Your faith meter should be updated if there was spiritual hunger (you rolled a 7).
+Your faith meter should be updated if there was spiritual hunger.
 
 ### 3. Move Soldiers
 
@@ -129,7 +117,7 @@ For every ongoing battle, count one point per attacking soldier
 
 ### Battles
 
-Each city card has a "Power" number showing how long it will take to conquer. If that number is 10, then it will take 10 turns to conquer.
+Each city card has a "Power" number showing how many points you must score in the city to conquer it. If that number is 10, you can score a maximum of 10 points in that city to conquer it.
 
 As long as the tribe is faithful (the faith meter is halfway full or more), your soldiers will win! Each soldier attacking the city will score one point per turn until you have "taken" all the points from that city. At that point, the city is conquered.
 
