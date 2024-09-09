@@ -223,7 +223,7 @@ body {
 .tribe-name {
   opacity: 0.5;
   position: absolute;
-  top: 30%;
+  top: 45%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
