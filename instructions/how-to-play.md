@@ -3,19 +3,19 @@ Balance battlefield strategy with the spirituality of your tribe to conquer the 
 ### How to Set Up
 
 1. Every player chooses a tribe.
-   1. Depending on the tribe, each player will get a different number of soldiers and Levites.
-      1. Judah: 6 Soldiers, 4 Levites
-      2. Naphtali: 5 Soldiers, 5 Levites
-      3. Zebulun: 5 Soldiers, 5 Levites
-      4. Gad: 4 Soldiers, 6 Levites
-2. Shuffle the city cards and draw ten. These are the cities available for conquest.
+2. Each player gets 5 Levites
+3. Depending on the number of players, each player will get a different number of soldiers and Levites.
+   1. Two Players: 5 Soldiers Each
+   2. Three Players: 4 Soldiers Each
+   3. Four Players: 3 Soldiers Each
+4. Shuffle the city cards and draw ten. These are the cities available for conquest.
    1. For each city, place a city marker on the map to make it easy to find.
-3. Deal three city cards (NOT from the conquest city cards) to each player. These are their starting locations.
-4. Each player takes one turn to place all his soldiers on the map.
+5. Deal three city cards (NOT from the conquest city cards) to each player. These are their starting locations.
+6. Each player takes one turn to place all his soldiers on the map.
    1. The player divides their soldiers up between their three potential starting cities as desired.
    2. If a tile is already taken, the player can place a soldier on an immediately adjacent title.
-5. Each player chooses two random blessing cards from either the Spiritual Blessings or Conquest blessings (one of each is okay).
-6. Play!
+7. Each player chooses two random blessing cards from either the Spiritual Blessings or Conquest blessings (one of each is okay).
+8. Play!
 
 ### How to Take Your Turn
 
